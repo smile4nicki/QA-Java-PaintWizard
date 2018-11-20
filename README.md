@@ -1,6 +1,6 @@
 # QA-Java-PaintWizard
 
-# Create a paint requirement wizard that will calculate which of the following three
+Create a paint requirement wizard that will calculate which of the following three
 products, would be the cheapest to buy, for the room you are painting.
 1) CheapoMax (20Litre) £19.99
 - This tin of paint will cover 10m2 per Litre
